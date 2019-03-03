@@ -1,10 +1,10 @@
 {
   "author": "whyrusleeping",
   "bugs": {
-    "url": "https://github.com/jbenet/hang-fds"
+    "url": "https://github.com/ipfs/hang-fds"
   },
   "gx": {
-    "dvcsimport": "github.com/jbenet/hang-fds"
+    "dvcsimport": "github.com/ipfs/hang-fds"
   },
   "gxDependencies": [
     {
