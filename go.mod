@@ -1,6 +1,6 @@
 module github.com/ipfs/hang-fds
 
-go 1.14
+go 1.15
 
 require (
 	github.com/multiformats/go-multiaddr v0.0.1
